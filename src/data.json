@@ -5,7 +5,7 @@
         "image": "/img/pd1.jpg",
         "title":"COMMON PROJECTS",
         "description": "Original Achilles Leather Sneakers",
-        "availableSizes": ["6", "7", "8", "9", "10"],
+        "availableSizes": ["6", "9", "10"],
         "price": 290
         },
         {
@@ -13,7 +13,7 @@
             "image": "/img/pd2.jpg",
             "title":"COMMON PROJECTS",
             "description": "Original Achilles Full Grain Leather Sneakers",
-            "availableSizes": ["6", "7", "8", "9", "10"],
+            "availableSizes": ["6", "7", "8"],
             "price": 260
             },
             {
@@ -29,7 +29,7 @@
                     "image": "/img/pd4.jpg",
                     "title":"COMMON PROJECTS",
                     "description": "Original Achilles Leather Sneakers",
-                    "availableSizes": ["6", "7", "8", "9", "10"],
+                    "availableSizes": ["8", "9", "10"],
                     "price": 290
                     },
                     {
@@ -37,7 +37,7 @@
                         "image": "/img/pd5.jpg",
                         "title":"COMMON PROJECTS",
                         "description": "Original Achilles Leather Sneakers",
-                        "availableSizes": ["6", "7", "8", "9", "10"],
+                        "availableSizes": [ "7", "8", "9", "10"],
                         "price": 290
                         },
                         {
@@ -45,7 +45,7 @@
                             "image": "/img/pd6.jpg",
                             "title":"COMMON PROJECTS",
                             "description": "BBall Leather Sneakers",
-                            "availableSizes": ["6", "7", "8", "9", "10"],
+                            "availableSizes": ["6", "7", "9"],
                             "price": 280
                             },
                             {
@@ -53,7 +53,7 @@
                                 "image": "/img/pd7.jpg",
                                 "title":"COMMON PROJECTS",
                                 "description": "Original Achilles Leather Sneakers",
-                                "availableSizes": ["6", "7", "8", "9", "10"],
+                                "availableSizes": ["6", "8", "9", "10"],
                                 "price": 290
                                 },
                             {
@@ -61,7 +61,7 @@
                                 "image": "/img/pd8.jpg",
                                 "title":"COMMON PROJECTS",
                                 "description": "Polished-Leather Derby",
-                                "availableSizes": ["6", "7", "8", "9", "10"],
+                                "availableSizes": ["6", "9", "10"],
                                 "price": 405
                                 },
                             {
@@ -69,7 +69,7 @@
                                 "image": "/img/pd9.jpg",
                                 "title":"COMMON PROJECTS",
                                 "description": "Original Achilles Leather High-Top Sneakers",
-                                "availableSizes": ["6", "7", "8", "9", "10"],
+                                "availableSizes": ["6", "8", "9", "10"],
                                 "price": 310
                                 },
                             {
@@ -85,7 +85,7 @@
                                 "image": "/img/pd11.jpg",
                                 "title":"COMMON PROJECTS",
                                 "description": "Original Achilles Leather High-Top Sneakers",
-                                "availableSizes": ["6", "7", "8", "9", "10"],
+                                "availableSizes": ["6", "7", "8", "10"],
                                 "price": 270
                                 },
                             {

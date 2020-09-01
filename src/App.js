@@ -8,11 +8,27 @@ class App extends React.Component {
   constructor() {
     super();
     this.state = {
-      products: data.products,
+      products: data.products, 
+      cartItems: [],
       size: "",
       sort: "",
     };
   }
+
+  addToCart =(product) => {
+    const cartItems = this.state.cartItems.slice();
+    cartItems.forEach(item => {
+      if(item.id ===product._id) {
+        item.count++;
+        alreadyInCart = true;
+      }
+    });
+    if(!alreadyInCart){
+      cartItems.push({...product, count: 1});
+    }
+  }
+
+
   sortProducts = (event) => {
     const sort = event.target.value;
     this.setState((state) => ({
@@ -24,7 +40,7 @@ class App extends React.Component {
         a.price > b.price ? 1:-1 :
         sort === "highest" ?
         a.price < b.price ? 1:-1 :
-        a._id > b._id ? 1:-1 
+        a._id < b._id ? 1:-1 
       ),
     }));
   };
